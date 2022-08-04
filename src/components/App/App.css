@@ -1,0 +1,9 @@
+body{
+    background:black;
+    overflow-x: hidden;
+    color: #e7e9f0;
+    font-family: 'lato',sans-serif;
+    display: flex;
+    justify-content: center;
+
+}
